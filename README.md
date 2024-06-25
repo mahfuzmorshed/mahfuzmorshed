@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mahfuz Morshed</h1>
-<h3 align="center">.net devloper from Bangladesh</h3>
+<h1 align="left">Hi 👋, I'm Mahfuz Morshed</h1>
+<h3 align="left">.net devloper from Bangladesh</h3>
 
 - 🔭 I’m currently working on [NEP](http://gtt.nobinep.com/)
 
