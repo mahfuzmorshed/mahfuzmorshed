@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [NEP](http://gtt.nobinep.com/)
 
-- 🌱 I’m currently learning **Blazor**
+- 🌱 I’m currently learning [**Blazor**](https://github.com/mahfuzmorshed/blazor_Inventory)  
 
 - 👯 I’m looking to collaborate on [salebee](https://salebee.net/)
 
