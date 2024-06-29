@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [salebee](https://salebee.net/)
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mahfuz-morshed-2934a949/](https://www.linkedin.com/in/mahfuz-morshed-2934a949/)
+- 👨‍💻 All of my projects Information are available at [https://www.linkedin.com/in/mahfuz-morshed-2934a949/](https://www.linkedin.com/in/mahfuz-morshed-2934a949/)
 
 - 💬 Ask me about **react js**
 
